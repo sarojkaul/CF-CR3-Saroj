@@ -1,0 +1,5 @@
+I have created an Insurance website that calculate insurance according to the age and country of the user.
+I have created a form to input the customer’s name, age, country of origin (Austria, Hungary, Greece) and the horsepower of their car. 
+Upon clicking on the "Calculate" button of the form, it  runs a calculateInsurance() function that calculates 
+the insurance and shows the results on the “Printed calculation goes here” area of the screen -
+this area  not be visible until the user fill the form and press “calculate” button.
